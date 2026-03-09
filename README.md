@@ -43,6 +43,12 @@ Gerar um plano de MVP contendo:
 1ª Crie um APP de Finanças Pessoais com base no seguinte PRD (Product Requirements Document): {PRD}
 2ª O APP não está criando uma meta pela conversação em linguagem natural, apenas manualmente, corrija. Também faça uma sessão onde seja possível verificar gráficos e extratos detahados da transação.
 
+## Finalidades do APP
+- registro de transações (entradas e saídas)
+- registro de metas
+- registros via conversação simples com bot em linguagem natural
+- visualização de gráficos e extratos detalhados.
+-  
 ## 💬 Conclusão
 
 Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
