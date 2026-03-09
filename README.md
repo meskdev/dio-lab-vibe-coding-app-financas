@@ -48,7 +48,7 @@ Gerar um plano de MVP contendo:
 - registro de metas
 - registros via conversação simples com bot em linguagem natural
 - visualização de gráficos e extratos detalhados.
--  
+ 
 ## 💬 Conclusão
 
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+Vibe Coding é uma poderosa ferramenta de aceleração da construção de idéias em realidades, com alguns prompts bem estruturados e voce já tem pronto algo bastante funcional, que pode seguir sendo melhorado pelo proprio vibe coding e também pro-code caso o usuário também tenha essa expertise. É avassalador o poder da IA Generativa na criação de aplicações.
